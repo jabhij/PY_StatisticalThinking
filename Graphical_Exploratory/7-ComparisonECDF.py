@@ -26,5 +26,5 @@ plt.legend(('setosa', 'versicolor', 'virginica'), loc='lower right')
 _ = plt.xlabel('petal length (cm)')
 _ = plt.ylabel('ECDF')
 
-# Display the plot
+# Display plot
 plt.show()
